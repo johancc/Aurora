@@ -31,7 +31,7 @@
     "react-scripts": "^3.4.3",
     "react-select": "^4.1.0",
     "react-test-renderer": "^16.13.1",
-    "react-transition-group": "^4.4.1",
+    "react-transition-group": "^4.4.2",
     "styled-components": "^5.1.1",
     "yup": "^0.29.3"
   },
