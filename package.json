@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "forever": "^4.0.1",
-    "husky": "^5.0.6",
+    "husky": "^7.0.1",
     "lerna": "^3.22.1",
     "mongodb-memory-server": "^6.9.3",
     "npm-run-all": "^4.1.5",
