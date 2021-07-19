@@ -39,7 +39,7 @@
     "forever": "^4.0.1",
     "husky": "^5.0.6",
     "lerna": "^3.22.1",
-    "mongodb-memory-server": "^6.9.3",
+    "mongodb-memory-server": "^7.3.0",
     "npm-run-all": "^4.1.5",
     "nyc": "^15.1.0",
     "prompts": "^2.4.1",
